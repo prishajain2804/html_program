@@ -1,0 +1,14 @@
+body {
+    background-color: darkslategrey;
+    color: lightblue;
+    font-size: 1.1em;
+}
+h1 {
+    color: coral;
+}
+p{
+    font-size: 1.3em;
+}
+h3{
+    color: orange;
+}
