@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Unordered List</title>
+    </head>
+    <body>
+        <h1>This is an example of unordered lists</h1>
+
+        <h3>List of fruits:</h3>
+        <ul>
+            <li>Apple</li>
+            <li>Mango</li>
+            <li>Orange</li>
+            <li>Banana</li>
+        </ul>
+    </body>
+</html>
